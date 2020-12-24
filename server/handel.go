@@ -3,7 +3,7 @@ package server
 import (
 	"net/http"
 
-	"github.com/PietaTony/site-system/serverSide/db/step"
+	"github.com/PietaTony/site-system/db/step"
 	"github.com/gin-gonic/gin"
 )
 
